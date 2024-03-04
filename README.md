@@ -1,3 +1,5 @@
+Mini Project of To Do List and also a final project on Tic Tac Toe game.
+
 ToDoListApp-Mathis_SERGENT-CDOF4 📋
 This is a console-based application in Python designed to help you keep track of your tasks. You can add, delete, and mark tasks as completed.
 
